@@ -6,6 +6,7 @@ code bonjour
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>code</title>
+	<link rel="stylesheet" href="code.css">
 </head>
 <body>
 <!--le contenu-->
