@@ -70,6 +70,4 @@ liste à puces
 
 </body>
 </html>
-	body {
-    background-image: url(https://th.bing.com/th/id/OIP.-hB8MXiRIVPq9ltGiftG1AHaEK?pid=ImgDet&rs=1);
-    }
+	
