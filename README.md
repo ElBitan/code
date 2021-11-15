@@ -70,11 +70,11 @@ liste à puces
  	<p>lien de</p>
  	<mark>la meme page</mark>
 
- 	<p>pour faire un lien pour envoyer un mail il faut taper
+ 	<p class="mail">pour faire un lien pour envoyer un mail il faut taper
  		la balise de lien et le mail dans href <em>exemple</em>
- 		<a href="mailto:"mingstrea7@gmail.com">lien qui génère l'envoie d'un email"></a>  </p>		
+ 		<a href="mailto:"mingstrea7@gmail.com">lien qui génère l'envoie d'un email"></a>  </p>	
  		<h4>pour faire télécharger un fichier il faut faire comme pour mettre un lien mais dans href on met le nom de fichier</h4>
- 		<strong>exemple</strong>
+ 		<strong>exemple</strong> 
  		<a href="vs projet">télécharger le fichier</a>
 
 
@@ -82,6 +82,8 @@ liste à puces
 
 <h2>voir inspecter</h2>
 <div class="voir"><a href="http://css.mammouthland.net/balises-html.php">exemple</a></div>
+
+
 
 </body>
 </html>
