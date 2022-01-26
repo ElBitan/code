@@ -14,3 +14,16 @@ em{color:white ;}
 strong{color: white ;}
 ul{color: white;}
 p.mail{color: blue;}
+
+
+@media screen and (max-width:1500px) {
+body{
+   width:90%;
+   height: 90%; 
+
+}
+iframe{
+  width: 90%;
+}
+
+}
